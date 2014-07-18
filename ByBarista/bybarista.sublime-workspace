@@ -1,0 +1,870 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"font-",
+				"font-weight"
+			],
+			[
+				"btnAdd",
+				"btnAddScore"
+			],
+			[
+				"txt",
+				"txtScore"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"text-",
+				"text-transform"
+			],
+			[
+				"d",
+				"display"
+			],
+			[
+				"inlin",
+				"inline"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"backgroun",
+				"background-color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"click",
+				"clickedItem"
+			],
+			[
+				"coord",
+				"coordYLift"
+			],
+			[
+				"coords",
+				"coordsAtPress"
+			],
+			[
+				"border",
+				"border-width"
+			],
+			[
+				"backgron",
+				"background-color"
+			],
+			[
+				"a",
+				"a	Tag"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"link",
+				"link_to"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"l",
+				"li	Tag"
+			],
+			[
+				"background",
+				"background-repeat"
+			],
+			[
+				"inlei",
+				"inline-block"
+			],
+			[
+				"inle",
+				"inline-block"
+			],
+			[
+				"compu",
+				"computerNumber"
+			],
+			[
+				"backgroudn",
+				"background-color"
+			],
+			[
+				"computerNumber",
+				"computerNumber-50"
+			],
+			[
+				"computerN",
+				"computerNumber-30"
+			],
+			[
+				"guessVa",
+				"guessValueChange"
+			],
+			[
+				"guess",
+				"guessValue"
+			],
+			[
+				"comp",
+				"computerNumber-30"
+			],
+			[
+				"inline",
+				"inline-block"
+			],
+			[
+				"bac",
+				"background"
+			],
+			[
+				"string",
+				"stringToNumber"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"ryu-",
+				"ryu-ready"
+			],
+			[
+				"had",
+				"hadouken-sound"
+			],
+			[
+				"max-",
+				"max-width"
+			],
+			[
+				"background-c",
+				"background-color"
+			],
+			[
+				"taskState",
+				"taskStateIndex"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 5307,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/style.css",
+			"settings":
+			{
+				"buffer_size": 2581,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 227.0,
+		"selected_items":
+		[
+			[
+				"packagein",
+				"Package Control: Install Package"
+			],
+			[
+				"prefernce",
+				"Preferences: Browse Packages"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"packaga",
+				"Package Control: Install Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"packages",
+				"Preferences: Browse Packages"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"emmet",
+				"Set Syntax: Emmet"
+			],
+			[
+				"!	",
+				"Snippet: #!/usr/bin/env"
+			],
+			[
+				"update",
+				"Package Control: Upgrade/Overwrite All Packages"
+			],
+			[
+				"install pac",
+				"Package Control: Install Package"
+			],
+			[
+				"package c",
+				"Package Control: Install Package"
+			],
+			[
+				"remove pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"diss",
+				"Package Control: Discover Packages"
+			],
+			[
+				"enab",
+				"Package Control: Enable Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			],
+			[
+				"enable ",
+				"Package Control: Enable Package"
+			],
+			[
+				"list pac",
+				"Package Control: List Packages"
+			],
+			[
+				"package disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"package dis",
+				"Package Control: Disable Package"
+			],
+			[
+				"package disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"package list",
+				"Package Control: List Packages"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"enable p",
+				"Package Control: Enable Package"
+			],
+			[
+				"package control",
+				"Package Control: Enable Package"
+			],
+			[
+				"auto",
+				"Autoprefix CSS"
+			],
+			[
+				"colorpi",
+				"Color Picker"
+			],
+			[
+				"sublimelin",
+				"SublimeLinter: Enable Linter"
+			],
+			[
+				"",
+				"Autoprefix CSS"
+			],
+			[
+				"aut",
+				"Autoprefix CSS"
+			],
+			[
+				"sublimelinter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toggle linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"package control: remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install pack",
+				"Package Control: Install Package"
+			],
+			[
+				"install pa",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: instal",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 575.0
+	},
+	"console":
+	{
+		"height": 143.0,
+		"history":
+		[
+			"hash -r",
+			"csslint path",
+			"Sublimelinter: WARNING:",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)",
+			"install package",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-2/HTML-CSS-ANGULAR-lab/ByBarista/wireframe/after_home1.jpg",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-2/HTML-CSS-ANGULAR-lab/ByBarista/js/script.js",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-2/HTML-CSS-ANGULAR-lab/ByBarista/bybarista.sublime-project",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-2/angular-filters/planets/js/app.js",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-2/angular-filters/planets/index.html",
+		"/Users/NickNish/Desktop/WDI/WDI_LA_7-8/02-week/AngularJS-filters/planets/index.html",
+		"/Users/NickNish/Desktop/WDI/WDI_LA_7-8/02-week/angular-filters/planets/css/style.css",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-2/ByBarista/wireframe/after_home1.jpg",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-2/ByBarista/wireframe/after_home2.jpg",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-2/ByBarista/wireframe/after_home3.jpg",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-2/ByBarista/css/style.css",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-2/ByBarista/js/script.js",
+		"/Users/NickNish/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/NickNish/Desktop/WDI/WDI_LA_7-8/02-week/angular-filters/planets/js/angular.min.js",
+		"/Users/NickNish/Downloads/untitled.html",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-2/gitreview/readme.md",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-2/BurningEyes/m",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/Rock-Paper-Scissors/index.html",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/Rock-Paper-Scissors/style.css",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/Rock-Paper-Scissors/script.js",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/html-and-css-lab/index.html",
+		"/Users/NickNish/Downloads/script.js",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/Rock-Paper-Scissors/script.j",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/js-events/example/index.html",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/js-events/example/js/events.js",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/js-objects/jedi.html",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/js-objects/style.css",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/js-objects/jedi.js",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/js-objects/readme.md",
+		"/Users/NickNish/Desktop/WDI/WDI_LA_7-8/01-week/hiphoparray/Readme.md",
+		"/Users/NickNish/Desktop/WDI/WDI_LA_7-8/01-week/hiphoparray/index.html",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/html-and-css-lab/css/style.css",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/html-and-css-lab/screenshots/full-page-screenshot.png",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/html-and-css-lab/screenshots/about_rollover.png",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/html-and-css-lab/screenshots/footer.png",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/Intro to JavaScript/index.html",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/Intro to JavaScript/intro-to-js2.html",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/HTML-CSS-Lab/html-and-css-lab/screenshots/full-page-screenshot.png",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/HTML-CSS-Lab/html-and-css-lab/css/style.css",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/HTML-CSS-Lab/html-and-css-lab/index.html",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/HTML-CSS-Lab/blog-lab/index.html",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/HTML-CSS-Lab/blog-lab/css/mobile.css",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/HTML-CSS-Lab/blog-lab/css/normalize.css",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/HTML-CSS-Lab/blog-lab/ecard-blog-screenshot.png",
+		"/Users/NickNish/Desktop/WDI/WDI-Nick/Week-1/HTML-CSS-Lab/blog-lab/style.css",
+		"/Users/NickNish/Downloads/html5-boilerplate-4.3.0/doc/usage.md",
+		"/Users/NickNish/Desktop/index.html",
+		"/Users/NickNish/Desktop/WDI/Week-1/style.css",
+		"/Users/NickNish/Desktop/WDI/Week-1/index.html",
+		"/Users/NickNish/index.html",
+		"/Users/NickNish/Desktop/gitpractice/index.html",
+		"/Users/NickNish/Desktop/WDI/notification_center.png",
+		"/Users/NickNish/Downloads/wdi_alfonso_lessons-master/clifun/myapp.rb",
+		"/Users/NickNish/Downloads/wdi_alfonso_lessons-master/command_line_basics.md",
+		"/Users/NickNish/Downloads/Code/Chapter 7/complete.js",
+		"/Users/NickNish/Downloads/Code/Chapter 7/index.html",
+		"/Users/NickNish/Downloads/Code/Chapter 7/booklist.css",
+		"/Users/NickNish/Downloads/Code/Chapter 7/mobile.html",
+		"/Users/NickNish/Downloads/Code/Chapter 7/07.js",
+		"/Users/NickNish/Downloads/front end resources/Recreate Practice/Animax/animax.css",
+		"/Users/NickNish/Downloads/front end resources/Recreate Practice/Animax/index.html",
+		"/Users/NickNish/Downloads/Code/Chapter 7/07.css",
+		"/Users/NickNish/Desktop/recreate.js",
+		"/Users/NickNish/Desktop/recreate.css",
+		"/Users/NickNish/Desktop/recreate.html",
+		"/Users/NickNish/Desktop/layout.css",
+		"/Users/NickNish/Desktop/layout.html",
+		"/Users/NickNish/Downloads/Code/Chapter 6/exercises-content.html",
+		"/Users/NickNish/Desktop/style.css",
+		"/Users/NickNish/Downloads/Code/Chapter 5/index.html",
+		"/Users/NickNish/Downloads/Code/Chapter 5/05.js",
+		"/Users/NickNish/Downloads/Code/Chapter 4/04.css",
+		"/Users/NickNish/Downloads/Code/Chapter 3/index.html",
+		"/Users/NickNish/Downloads/Code/Chapter 3/03.js",
+		"/Users/NickNish/Downloads/Code/Chapter 3/complete.js",
+		"/Users/NickNish/Downloads/practice/jQuery & CSS/Grid and Waypoints/script.js",
+		"/Users/NickNish/Downloads/demo/index.html",
+		"/Users/NickNish/Downloads/demo/styles.css",
+		"/Users/NickNish/Downloads/practice/jQuery & CSS/Grid and Waypoints/index.html",
+		"/Users/NickNish/Downloads/demo/js/navbar.js",
+		"/Users/NickNish/Downloads/practice/jQuery & CSS/Grid and Waypoints/style.css",
+		"/Users/NickNish/.Trash/ew/grid.css",
+		"/Users/NickNish/Downloads/practice/jQuery & CSS/Grid and Waypoints/ew/index.html",
+		"/Users/NickNish/Downloads/practice/jQuery & CSS/Grid and Waypoints/ew/grid.css",
+		"/Users/NickNish/Downloads/practice/jQuery & CSS/Grid and Waypoints/style2.css",
+		"/Users/NickNish/Downloads/SimpleDropDownEffects/index.html",
+		"/Users/NickNish/Downloads/practice/jQuery & CSS/Dropdown lists/style.css",
+		"/Users/NickNish/Downloads/Photoshop for Interface Design Practice/Complete Package 2/Course/Layer-Styles.html",
+		"/Users/NickNish/Desktop/untitled.html",
+		"/Users/NickNish/Downloads/download/about.html",
+		"/Users/NickNish/Downloads/download/contact.html",
+		"/Users/NickNish/Downloads/download/css/main.css",
+		"/Users/NickNish/Downloads/download/css/style.css",
+		"/Users/NickNish/Downloads/download/index.html",
+		"/Users/NickNish/Downloads/download/css/Style.css",
+		"/Users/NickNish/Downloads/download/css/normalize.css",
+		"/Users/NickNish/Downloads/download/css/responsive.css",
+		"/Users/NickNish/Downloads/nicknish.github.io/css/normalize.css",
+		"/Users/NickNish/Desktop/prac/Tryout2/script.js",
+		"/Users/NickNish/Desktop/prac/Tryout2/style.css",
+		"/Users/NickNish/Desktop/prac/Tryout2/index.html",
+		"/Users/NickNish/Desktop/prac/Tryout1/index.html",
+		"/Users/NickNish/github/Parallax-Scrolling/js/script.js",
+		"/Users/NickNish/Downloads/practice/parallax practice/parallax.css",
+		"/Users/NickNish/Downloads/practice/parallax.html",
+		"/Users/NickNish/Downloads/practice/parallax.js",
+		"/Users/NickNish/Downloads/practice/parallax.css",
+		"/Users/NickNish/github/Parallax-Scrolling/css/style.css",
+		"/Users/NickNish/github/Parallax-Scrolling/index.html",
+		"/Users/NickNish/Downloads/html5-boilerplate-4.3.0/index.html",
+		"/Users/NickNish/Downloads/html5-boilerplate-4.3.0/js/plugins.js",
+		"/Users/NickNish/Downloads/SlideToUnlock/js/slidetounlock.js",
+		"/Users/NickNish/Downloads/SlideToUnlock/css/style.css",
+		"/Users/NickNish/Downloads/SlideToUnlock/index.html",
+		"/Users/NickNish/github/googlefontdirectory/fonts/yanonekaffeesatz/METADATA.json",
+		"/Users/NickNish/Downloads/pinteresting/app/controllers/pins_controller.rb",
+		"/Users/NickNish/Downloads/pinteresting/app/views/pins/_form.html.erb",
+		"/Users/NickNish/Downloads/pinteresting/app/views/pins/index.html.erb",
+		"/Users/NickNish/Downloads/pinteresting/app/views/pins/show.html.erb",
+		"/Users/NickNish/Downloads/pinteresting/app/models/pin.rb",
+		"/Users/NickNish/Downloads/pinteresting/Gemfile",
+		"/Users/NickNish/Downloads/pinteresting/app/views/pins/new.html.erb",
+		"/Users/NickNish/Downloads/pinteresting/app/models/user.rb",
+		"/Users/NickNish/Downloads/pinteresting/tmp/cache/assets/development/sprockets/2ed19f37ecfb9bf3d67601bb39c79469",
+		"/Users/NickNish/Downloads/grayscale/js/grayscale.js",
+		"/Users/NickNish/Downloads/grayscale/index.html",
+		"/Users/NickNish/Downloads/grayscale/css/grayscale.css",
+		"/Users/NickNish/Downloads/pinteresting/app/controllers/pages_controller.rb"
+	],
+	"find":
+	{
+		"height": 54.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"green",
+			"last name",
+			"last-name",
+			"continue",
+			"input",
+			"cvv",
+			"hr",
+			"first name",
+			"placeholder=\"zipcode\"",
+			"div id=\"icon",
+			"ICON",
+			"icon",
+			"ICON",
+			"icon",
+			"ICON",
+			"icon",
+			"class",
+			"role",
+			"width",
+			"h2",
+			"disclaimer",
+			"column",
+			"step-bar",
+			"icon-home",
+			"id",
+			"ICON",
+			"icon",
+			"name",
+			"alt",
+			"coffee",
+			"$scope.shopName",
+			"$scope.shopName.",
+			"checkRoast",
+			"backgro",
+			"coffee",
+			"planet",
+			"p",
+			"myStyle",
+			"primary",
+			"btn",
+			"default",
+			"<button",
+			"button",
+			"Click me!",
+			"top",
+			"left",
+			"anything",
+			"constant",
+			"click",
+			";\n",
+			"rank",
+			"userName",
+			"script",
+			"20rem",
+			"responder",
+			"h4",
+			">\n",
+			"h3",
+			"Refresh",
+			"lowercase",
+			"Rock",
+			"selection",
+			"userSelection",
+			"scissors",
+			"p",
+			"0.8rem",
+			"5s",
+			"70px",
+			"44px",
+			"NAME",
+			"ANIMATION",
+			"span",
+			"20px",
+			"6px",
+			"15px",
+			"img",
+			"color",
+			"1s",
+			"color",
+			"all",
+			"href",
+			"=\"\">",
+			"8s",
+			";\n",
+			"all",
+			"ease",
+			"2s",
+			"white",
+			"1px",
+			"flaot",
+			"dashed",
+			"solid",
+			"<a href=\"#\"><img src=\"\" alt=\"Cut and Paste\" /></a>",
+			"May",
+			"March",
+			"February",
+			"ARCHIVE",
+			"BLOGROLL",
+			"April",
+			"January",
+			"<a href=\"#\">January</a>",
+			"h2",
+			"red",
+			"slider",
+			"			<h2>Animax</h2>\n			<p>\n				Animax is a Los Angeles based Emmy Award winning production studio that produces and markets content for all screens. Our team of designers and animators creates animation, webseries, TV shows, branded entertainment and social media content and engineers responsive websites, games, mobile and social apps for agencies, other production companies and brands. In addition to client work, Animax has a dedicated original entertainment division creating new video content and digital products. And, finally, because we want to return some love, we started <a href=\"#\">HelpsGood</a> which is dedicated to helping nonprofits amplify their marketing, communication and fundraising efforts.\n			</p>",
+			"	<script src=\"https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js\"></script>",
+			"<p>",
+			"p",
+			"ol",
+			"h2",
+			"<a href=\"#\"><div class=\"ball\"></div></a>",
+			"color",
+			"third",
+			".is",
+			"	// $('a.more').click(function(event) {\n	// 	event.preventDefault();\n	// 	if ($firstPara.is(':hidden')) {\n	// 		$firstPara.fadeIn('slow');\n	// 		$(this).text('read less');\n	// 	} else {\n	// 		$firstPara.fadeOut('slow');\n	// 		$(this).text('read more');\n	// 	}\n	// });",
+			".body",
+			"body",
+			"');\n",
+			"color",
+			"span",
+			"column",
+			"container",
+			"grid",
+			"span",
+			"section",
+			"div",
+			"<script href=\"http://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.1/jquery.min.js\"></script>",
+			"monkey"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5307,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2969,
+								2969
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1597.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"file": "wireframe/after_home2.jpg",
+					"semi_transient": true,
+					"stack_index": 2,
+					"type": "image"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "css/style.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2581,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2323,
+								2323
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.5,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 112.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "bybarista.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"~/Downloads/4-3/start/css/style.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

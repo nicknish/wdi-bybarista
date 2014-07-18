@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en" ng-app="coffeeApp">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+	<title>ByBarista: Coffee To You</title>
+	<link href='http://fonts.googleapis.com/css?family=Lato|Raleway' rel='stylesheet' type='text/css'>
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/3.0.1/normalize.min.css">
+	<link rel="stylesheet" href="css/style.css">
+	<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.19/angular.min.js"></script>
+	<script src="js/script.js"></script>
+</head>
+<body>
+
+	<header class="clearfix">
+		<div>
+			<div class="logo">LOGO</div>
+			<div class="help">
+				<span>Need Help? Call us at (555)555-5555</span>
+			</div>
+		</div>
+	</header>
+
+	<!-- Address Step -->
+
+	<div class="address column clearfix">
+		<div class="step-bar">1</div>
+		<div class="container">
+			<form novalidate>
+				<div class="icon" id="icon-email">ICON</div>
+				<h2>Where should we send your order confirmation email?</h2>
+				<input type="email" placeholder="email address" class="input-full" autofocus/>
+				<input type="checkbox" />checkout as a guest
+				<input type="password" class="input-full"placeholder="create a password"/>
+				<input type="password" class="input-full"placeholder="verify password"/>
+				
+				<div class="horizontal-rule"></div>
+				
+				<div class="clearfix">
+					<div class="icon-home">ICON</div>
+					<input type="text" class="input-half " placeholder="first name"/>
+					<input type="text" class="input-half pull-right" placeholder="last name" />
+					<input type="text" placeholder="address line 1" class="input-full">
+					<input type="text" placeholder="address line 2(apartment #, etc.)" class="input-full">
+					<input type="text" class="input-half" placeholder="city">
+					<input type="text" class="input-third pull-right" placeholder="zipcode" maxlength="5">
+				</div>
+				
+				<button>continue</button>
+			</div>
+
+		</form>
+	</div>
+
+	<!-- Payment Step -->
+
+	<div class="payment column clearfix">
+		<div class="step-bar">2</div>
+		<div class="container">
+			<div class="icon" id="icon-payment">ICON</div>
+			<h2>enter your payment information</h2>
+			<div class="credit-card">
+				<div id="credit-card-strip"></div>
+				<input type="number" placeholder="card number">
+				<input type="password" placeholder="cvv" maxlength="4" class="input-third" />
+				<p>expiration date</p>
+				<select name="month">
+					<option value="" default selected>month</option>
+					<option value="January">January</option>
+					<option value="January">January</option>
+					<option value="January">January</option>
+					<option value="January">January</option>
+					<option value="January">January</option>
+					<option value="January">January</option>
+					<option value="January">January</option>
+					<option value="January">January</option>
+					<option value="January">January</option>
+					<option value="January">January</option>
+					<option value="January">January</option>
+					<option value="January">January</option>
+				</select>
+				<select name="year">
+					<option value="" default selected>year</option>
+					<option value="January">January</option>
+					<option value="January">January</option>
+					<option value="January">January</option>
+					<option value="January">January</option>
+				</select>
+			</div>
+
+			<input type="checkbox" />billing address same as shipping*
+
+			<input type="text" class="input-half" placeholder="first name"/>
+			<input type="text" class="input-half pull-right" placeholder="last name" />
+			<input type="text" placeholder="address line 1" class="input-full">
+			<input type="text" placeholder="address line 2(apartment #, etc.)" class="input-full">
+			<input type="text" class="input-half" placeholder="city">
+			<input type="text" class="input-third pull-right" placeholder="zipcode" maxlength="5">
+
+			<button>continue</button>
+
+		</div>
+	</div>
+
+	<!-- Review Step -->
+
+	<div class="review column clearfix">
+		<div class="step-bar">3</div>
+		<div class="container">
+			<div class="icon" id="icon-payment">ICON</div>
+			<h2>review and complete your order</h2>
+			<h3>Small Office (24oz)
+				<span>$34.95</span>
+			</h3>
+			<span>good for 2-3 people in the office for 2 weeks</span>
+			<a href>edit</a>
+			<button class="edit-option">Personal (12oz)
+				<span>$19.95</span>
+			</button>
+			<button class="edit-option">Large Office (48oz)
+				<span>$59.95</span>
+			</button>
+
+			<div class="horizontal-rule"></div>
+			
+			<h3>subtotal<span>$34.95</span></h3>
+			
+			<input type="text" placeholder="promo code">
+
+			<div class="horizontal-rule"></div>
+			
+			<h3>TOTAL
+				$34.95
+			</h3>
+
+			<button class="button-order">place order</button>
+			<p class="disclaimer">By clicking "place order", you acknowledge you have read and understand the ByBarista <a href>terms and conditions</a> and authorize us to automatically continue your ByBarista subscription, charging <b>$29.95</b> each month to the payment method provided, until you cancel.</p>
+		</div>
+	</div>
+
+
+	<footer>
+		<div class="disclaimer">
+			<span>There is no committment, and you may change, cancel, or pause before your next billing cycle by calling (323) XXX - XXXX.</span>
+		</div>
+	</footer>
+
+</body>
+</html>
